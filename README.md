@@ -2,8 +2,9 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" />
 <p width="45%">
-**yasindu-jayasinghe/yasindu-jayasinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Let's+shine+the+future+🌻)](https://git.io/typing-svg)
+  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
